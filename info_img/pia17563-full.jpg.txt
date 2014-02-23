@@ -1,0 +1,7 @@
+Crab Nebula, as Seen by Herschel and Hubble
+This image shows a composite view of the Crab nebula, an iconic supernova remnant in our Milky Way galaxy, as viewed by the Herschel Space Observatory and the Hubble Space Telescope. Herschel is a European Space Agency (ESA) mission with important NASA contributions, and Hubble is a NASA mission with important ESA contributions.
+A wispy and filamentary cloud of gas and dust, the Crab nebula is the remnant of a supernova explosion that was observed by Chinese astronomers in the year 1054.
+The image combines Hubble's view of the nebula at visible wavelengths, obtained using three different filters sensitive to the emission from oxygen and sulphur ions and is shown here in blue. Herschel's far-infrared image reveals the emission from dust in the nebula and is shown here in red.
+While studying the dust content of the Crab nebula with Herschel, a team of astronomers have detected emission lines from argon hydride, a molecular ion containing the noble gas argon. This is the first detection of a noble-gas based compound in space.
+The Herschel image is based on data taken with the Photoconductor Array Camera and Spectrometer (PACS) instrument at a wavelength of 70 microns; the Hubble image is based on archival data from the Wide Field and Planetary Camera 2 (WFPC2).
+Image credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant  Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)
