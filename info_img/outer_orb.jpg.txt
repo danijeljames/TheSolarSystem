@@ -1,8 +1,0 @@
-Outer Planet Orbits
-
-This shows the relative sizes and positions of the orbits of the planets farther from the Sun than Earth. All the planets have orbits that are ellipses with the Sun at one of the foci, and the ellipses are in different planes.
-
-
-However, in a perspective view of the orbits such as this one, only dwarf planet Pluto has a noticeably noncircular orbit that
-
-Credit: Lunar and Planetary Institute
