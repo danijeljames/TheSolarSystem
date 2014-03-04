@@ -1,4 +1,8 @@
-Cateverse
-=========
+The Solar System
+================
 
-Cate explores the Universe
+Copyright (c) 2014 Danijel James
+
+Portions of program used under license from the respective Copyright holders.
+
+
