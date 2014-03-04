@@ -4,6 +4,6 @@
         <row id="0" name=""/>
     </rows>
     <columns>
-        <column id="0" name="" type="0" readonly="120"></column>
+        <column id="0" name="" type="0" readonly="1"></column>
     </columns>
 </table>
