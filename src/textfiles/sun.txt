@@ -19,7 +19,6 @@ Mass
 Radius
 
 Gravity
-
 Surface Temp
 Moons
 Composition
