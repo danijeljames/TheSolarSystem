@@ -5,3 +5,9 @@ The image combines Hubble's view of the nebula at visible wavelengths, obtained 
 While studying the dust content of the Crab nebula with Herschel, a team of astronomers have detected emission lines from argon hydride, a molecular ion containing the noble gas argon. This is the first detection of a noble-gas based compound in space.
 The Herschel image is based on data taken with the Photoconductor Array Camera and Spectrometer (PACS) instrument at a wavelength of 70 microns; the Hubble image is based on archival data from the Wide Field and Planetary Camera 2 (WFPC2).
 Image credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant  Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)
+
+
+
+Crab Nebula, as Seen by Herschel and Hubble
+Image credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant  Team;
+NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)

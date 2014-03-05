@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="table1" numRows="16" numCols="2" flags="0" tableType="0">
+<table version="1.000000" name="copyNotice" numRows="16" numCols="2" flags="0" tableType="0">
     <rows>
         <row id="0" name=""/>
         <row id="1" name=""/>
@@ -19,7 +19,7 @@
         <row id="15" name=""/>
     </rows>
     <columns>
-        <column id="0" name="" type="1" readonly="1">,,,,,,,,,,,,,,,</column>
+        <column id="0" name="" type="1" readonly="1">The Red Spider Planetary Nebula\n© 2013 Carlos Milovic.\nUsed with permission.,,IC 4592: The Blue Horsehead Reflection Nebula\n© 2013 Scott Rosen.\nUsed with permission.,The Horsehead Nebula\n© 2012 N.A.Sharp/NOAO/AURA/NSF.\nUsed with permission.,,Apollo 12: Self-Portrait\nDate: November 1969\nCredit: Charles Conrad\, Apollo 12\, NASA,Helix Nebula (NGC 7293)\nDate: Feb. 25\, 2009\nImage Credit: ESO,Orbiting Astronaut Self-Portrait\nImage Credit: Expedition 32 Crew\, ISS\, NASA,45th Anniversary of &apos;Earthrise&apos;\nDate: Dec. 1968\nImage Credit: NASA,Quiet Corona and Upper Transition Region of the Sun\nDate: Dec. 31\, 2013\nImage Credit: NASA/SDO,Crab Nebula\, as Seen by Herschel and Hubble\nImage credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant  Team;\nNASA\, ESA and Allison Loll/Jeff Hester (Arizona State University),Astronauts Complete First in Series of Spacewalks\n@AstroIllini (Mike Hopkins) on Twitter\n@AstroRM (Rick Mastracchio) on Twitter\nImage Credit: NASA,Andromeda Galaxy (M31)\nPublic Domain,NGC 6302\nPublic Domain,© 2012 Lsmpascal,© Lsmpascal 2012</column>
         <column id="1" name="" type="1" readonly="0">ap121029,ap130718,ap130402,ap121021,ap120511,bean_conrad_full,Helix_Nebula,selfportrait_iss032_4288,Earthrise,QuietCorona-Sun,nebulaCrab,astronauts_first_complete,m31,ngc-6302,sunPlanetComparison,planetComparison</column>
     </columns>
 </table>
