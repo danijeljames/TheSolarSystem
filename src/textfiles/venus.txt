@@ -28,7 +28,7 @@ Composition
 
 
 
-
+ORIGINAL DATA:
 224.701 days
 −243.0185 days
 4.8676×10²⁴ kg
@@ -48,6 +48,23 @@ Helium 0.0012%
 Neon 0.0007%
 Other ≈0.0001%
 
+REPLACED DATA:
+224.701 days
+−243.0185 days
+4.8676×10²⁴ kg
+0.815 Earths
+6051.8±1.0 km
+0.9499 Earths
+0.904 g
+462°C
+27
+Carbon Dioxide ≈96.5%
+Nitrogen ≈3.5%
+Sulfur Dioxide 0.015%
+Argon 0.007%
+Water Vapour 0.002%
+Carbon Monoxide 0.0017%
+Other ≈0.0020%
 
 
 
