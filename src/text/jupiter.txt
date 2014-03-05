@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orbital Period
+Day
+Mass
+
+Radius
+
+Gravity
+Surface Temp
+Moons
+Composition
+
+
+
+
+11.8618 years
+9h 55m 30s
+5.97219×10²⁴ kg
+3.0×10⁻⁶ Suns
+71492±4 km
+11.209 Earths
+2.528 g
+-108.15°C
+67
+Hydrogen 89.8±2.0%
+Helium 10.2±2.0%
+Methane ≈ 0.3%
+Ammonia ≈ 0.026%
+Other ≈ 0.004%

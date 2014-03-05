@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Orbital Period
+Day
+Mass
+
+Radius
+
+Gravity
+Surface Temp
+Moons
+Composition
+
+
+
+
+
+
+
+365.2563 days
+23h 56m 4s
+5.97219×10²⁴ kg
+3.0×10⁻⁶ Suns
+6378.1 km
+1 Earth
+0.99732 g 
+-88°C ~ 54°C
+1
+Nitrogen 78.08%
+Oxygen   20.95%
+Argon    0.93%
+Other	 0.04%
+
+
+
+
+super⁰¹²³⁴⁵⁶⁷⁸⁹⁻
