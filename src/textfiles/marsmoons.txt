@@ -1,7 +1,11 @@
+Phobos
+======
+Phobos is the larger and closer of the two natural satellites of Mars. Both moons were discovered in 1877. A small, irregularly shaped object with a mean radius of 11 km. Phobos orbits 6,000 km from the Martian surface, closer to its primary than any other known planetary moon. It is so close that it orbits Mars faster than Mars rotates. As a result, from the surface of Mars it appears to rise in the west, move across the sky in 4 hours 15 min or less, and set in the east, twice each Martian day. Due to tidal interactions, Phobos is drawing closer to Mars by one meter every century, and it is predicted that in 50 million years it will collide with the planet or break up into a planetary ring.
 
 
-
-
+Deimos
+======
+Deimos is the smaller and outermore of the two natural satellites of the planet Mars with a mean radius of 6.2 km. Deimos takes 30.3 hours to orbit Mars. Deimos's orbit is nearly circular and is close to Mars's equatorial plane. Deimos is possibly an asteroid that was perturbed by Jupiter into an orbit that allowed it to be captured by Mars, though this hypothesis is still controversial and disputed. Deimos regularly passes in front of the Sun as seen from Mars. It is too small to cause a total eclipse, appearing only as a small black dot moving across the Sun.
 
 
 

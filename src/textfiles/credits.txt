@@ -1,0 +1,9 @@
+This application is dedicated to education.
+
+I would like to thank the following, for without some contribution of some kind, this application would have never been possible:
+
+N.A.Sharp, National Optical Astronomy Observatory, Association of Universities for Research in Astronomy, National Science Foundation, K. Coil, S. Rosen, S. Leshin, C. Milovic, C. Szabototh, Wikiepedia's contributors, Lsmpascal, C. Raffaele, M. Amuso, M. Koenig, dobroride, PlanetPixelEmporium, NASA, GitHub, GameSalad, Adobe, Corel and Apple.
+
+I would like to give a special thank you to Charlie, for who without the hours of dedication and putting up with my "is that the colour I picked?" every night, the imagery in this application would not be possible.
+
+

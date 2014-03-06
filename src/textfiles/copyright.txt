@@ -1,0 +1,68 @@
+INFORMATION
+===========
+"Chamber Decompressing" by Mike Koenig,
+is licensed under CC BY 3.0
+
+"Rocket Thrusters" by dobroride,
+is licensed under CC SP 1.0
+
+"Planets and sun size comparison" by Lsmpascal,
+is licensed under CC BY-SA 3.0
+http://upload.wikimedia.org/wikipedia/commons/d/d7/Planets_and_sun_size_comparison.jpg
+
+"Solar system planets size comparison" by Lsmpascal,
+is licensed under CC BY-SA 3.0
+http://upload.wikimedia.org/wikipedia/commons/3/3c/Size_planets_comparison.jpg
+
+Planet Textures, Copyright (c) by James Hastings-Trew
+http://planetpixelemporium.com/planets.html
+
+Vector images provided by Charlie Raffaele,
+is licensed under MIT
+
+You may use NASA imagery, video, audio, and data files used for the rendition of 3-dimensional models for educational or informational purposes, including photo collections, textbooks, public exhibits, computer graphical simulations and Internet Web pages.
+http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html
+
+Text derived from Wikipedia,
+Text is available under the CC BY-SA 3.0
+
+"The Solar System" source available on GitHub,
+is licensed under FreeBSD
+
+
+
+
+
+
+
+TITLES
+======
+Sounds
+
+
+
+
+
+Images
+
+
+
+
+
+
+
+
+
+
+
+
+
+NASA Images
+
+
+
+
+Text
+
+
+Project
